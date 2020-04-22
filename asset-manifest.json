@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ally-task/static/css/main.bad45173.chunk.css",
+    "main.js": "/ally-task/static/js/main.8286aa19.chunk.js",
+    "main.js.map": "/ally-task/static/js/main.8286aa19.chunk.js.map",
+    "runtime-main.js": "/ally-task/static/js/runtime-main.176e9ae7.js",
+    "runtime-main.js.map": "/ally-task/static/js/runtime-main.176e9ae7.js.map",
+    "static/css/2.a72c35d3.chunk.css": "/ally-task/static/css/2.a72c35d3.chunk.css",
+    "static/js/2.f8b6a1aa.chunk.js": "/ally-task/static/js/2.f8b6a1aa.chunk.js",
+    "static/js/2.f8b6a1aa.chunk.js.map": "/ally-task/static/js/2.f8b6a1aa.chunk.js.map",
+    "index.html": "/ally-task/index.html",
+    "precache-manifest.3015a8958f2ab162efbeec9faae226ba.js": "/ally-task/precache-manifest.3015a8958f2ab162efbeec9faae226ba.js",
+    "service-worker.js": "/ally-task/service-worker.js",
+    "static/css/2.a72c35d3.chunk.css.map": "/ally-task/static/css/2.a72c35d3.chunk.css.map",
+    "static/css/main.bad45173.chunk.css.map": "/ally-task/static/css/main.bad45173.chunk.css.map",
+    "static/js/2.f8b6a1aa.chunk.js.LICENSE.txt": "/ally-task/static/js/2.f8b6a1aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.176e9ae7.js",
+    "static/css/2.a72c35d3.chunk.css",
+    "static/js/2.f8b6a1aa.chunk.js",
+    "static/css/main.bad45173.chunk.css",
+    "static/js/main.8286aa19.chunk.js"
+  ]
+}
